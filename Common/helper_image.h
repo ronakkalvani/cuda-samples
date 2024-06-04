@@ -51,7 +51,7 @@
 #define EXIT_WAIVED 2
 #endif
 
-#include <helper_string.h>
+#include "/csproject/yike/intern/ronak/ParallelQuickjoin/cuda-samples/Common/helper_string.h"
 
 // namespace unnamed (internal)
 namespace helper_image_internal {
